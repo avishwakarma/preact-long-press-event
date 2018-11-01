@@ -17,7 +17,19 @@ Inspired by [long-press]
 
 import injectLongPressEvent from 'preact-long-press-event';
 
+/**
+ * @params {object} options
+ * 
+ * Options can be an object containing duration property
+ * 
+ * {
+ *   duration: <duration_in_milliseconds>
+ * }
+ * 
+ * The default delay duration is 1500
+ */
 injectLongPressEvent();
+
 
 // in your component
 

@@ -1,0 +1,28 @@
+{
+  "name": "preact-long-press-event",
+  "version": "1.0.0",
+  "description": "onLongPress event for preact",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashokvishwakarma/preact-long-press-event.git"
+  },
+  "keywords": [
+    "preact",
+    "long-press",
+    "onlongpress",
+    "onLongPress"
+  ],
+  "author": "Ashok Vishwakarma <akvlko@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashokvishwakarma/preact-long-press-event/issues"
+  },
+  "homepage": "https://github.com/ashokvishwakarma/preact-long-press-event#readme",
+  "dependencies": {
+    "preact": "^8.3.1"
+  }
+}
